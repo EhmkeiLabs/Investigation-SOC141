@@ -1,4 +1,4 @@
-# Walkthrough: Investigation of SOC141  
+# Walkthrough: Investigation of SOC141 - Phishing URL Detected
 
 ## **Objective**  
 This lab focuses on identifying and mitigating a phishing attempt involving a suspicious URL accessed within the network. The investigation aims to analyze the behavior of the request, identify associated risks, and recommend measures to prevent similar incidents.
